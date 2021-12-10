@@ -9,3 +9,7 @@ I am Ezequiel, also known as Kimi, from Buenos Aires, Argentina.
 - 💬 Ask me about iOS, Android, React Native, microservices and Embedded Systems
 - 📫 How to reach me: @eaceto / eaceto(at)pm.me
 - 🌎 Pesonal Web Blog: https://eaceto.dev
+
+Proud https://supabase.com user!
+
+<img src="https://supabase.com/brand-assets/supabase-logo-wordmark--dark.svg" alt="Supabase" style="height: 32; width:100px;"/>
