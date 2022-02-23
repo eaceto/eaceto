@@ -10,6 +10,8 @@ I am Ezequiel, also known as Kimi, from Buenos Aires, Argentina.
 - 📫 How to reach me: @eaceto / eaceto(at)pm.me
 - 🌎 Pesonal Web Blog: https://eaceto.dev
 
-Proud https://supabase.com user!
+#### Public key
 
-<img src="https://supabase.com/brand-assets/supabase-logo-wordmark--dark.svg" alt="Supabase" style="height: 32; width:100px;"/>
+```sh
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCfdXSTjJuGPsjUpU7E3bzvQXkEPbf+utnTxKwtS30XnOZ5AodU+MCpvnA4fyUswT4jFjh5U7wanLU5J+M6I4C34jU+Dj1Yp9z28/W5qmaUNWu7UnOmLTxQl0BbBgwZ0x4LEbIgM8LOhp9f0YAsdkt+bR76JTiPMRgFEfJz+JwalK3im5w2Kk6Wav/4VZkXqH3AyJtGwN9c8jpzBZgKps1uTmJp6V6Ej9pWk27nq34jlqhe76+JwGdFbt9rjrXcgYMCN47gmBAqzcGmasW/OLyxi9iwJmMd+3MhCeOv4j/MxWszY9ga+Ge/qObyOlFmFI5lZG3ZfzAueS/T/S6ARN5J openpgp:0x4E546B41)
+```
