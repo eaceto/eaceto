@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ezequiel, also known as Kimi, from Buenos Aires, Argentina.
+I am Ezequiel, also known as Kimi. I live in Madrid and grew up in Buenos Aires.
 
 - 🔭 I’m currently working on architecture of banking systems, mobile apps and embedded systems.
 - 🌱 I’m currently learning Multiplatform Desktop apps with Dart and Flutter.
