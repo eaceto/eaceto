@@ -9,6 +9,7 @@ I am Ezequiel, also known as Kimi. I live in Madrid and grew up in Buenos Aires.
 - 💬 Ask me about iOS, Android, React Native, microservices and Embedded Systems
 - 📫 How to reach me: @eaceto / eaceto(at)pm.me
 - 🌎 Pesonal Web Blog: https://eaceto.dev
+- 🗂 LinkedIn Profile: https://www.linkedin.com/in/ezequielaceto/
 
 #### Public key
 
